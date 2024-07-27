@@ -10,7 +10,7 @@
 html, body{
         font-family: "Barlow Semi Condensed", sans-serif;
         font-weight: 500, 600;
-        background-color: #d3e4f7cb;
+        background-color: hsl(210, 46%, 95%);
 }
 
 h4{
