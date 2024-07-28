@@ -71,7 +71,11 @@ p{
     border-radius: 50%;
     height: 50px;
     margin-right: 25px;
-    border: 2px solid #FFF;
+}
+
+.grid-box-daniel,
+.grid-box-patrick img{
+    border: 2px solid #a775f1;
 }
 
 .grid-box-author-title p:first-child{
