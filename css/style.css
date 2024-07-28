@@ -59,6 +59,7 @@ p{
 .grid-box{
     padding: 25px 30px;
     border-radius: 10px;
+    border-color: #FFF;
 }
 
 .grid-box-author{
