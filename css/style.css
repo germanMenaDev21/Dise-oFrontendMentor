@@ -95,7 +95,7 @@ p{
 /* background box */
 .grid-box-purple{
     background-color: hsl(263, 55%, 52%);
-    background-image: url('/images/bg-pattern-quotation.svg ');
+    background-image: url('./images/bg-pattern-quotation.svg ');
     background-repeat: no-repeat;
     background-position: top 0 right 15%;
     background-size:  121px;
