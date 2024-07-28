@@ -59,8 +59,6 @@ p{
 .grid-box{
     padding: 25px 30px;
     border-radius: 10px;
-    border-image: 2px solid #FFF;
-    b
 }
 
 .grid-box-author{
@@ -73,6 +71,7 @@ p{
     border-radius: 50%;
     height: 50px;
     margin-right: 25px;
+    border-image: 2px solid #FFF;
 }
 
 .grid-box-author-title p:first-child{
