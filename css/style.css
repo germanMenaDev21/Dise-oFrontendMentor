@@ -71,7 +71,7 @@ p{
     border-radius: 50%;
     height: 50px;
     margin-right: 25px;
-    border-image: 2px solid #FFF;
+    border: 2px solid #FFF;
 }
 
 .grid-box-author-title p:first-child{
